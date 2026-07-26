@@ -32,6 +32,8 @@ También comprendí la importancia de validar cada cambio antes de continuar.
 
 La documentación del proceso facilita detectar errores y mejorar futuras implementaciones.
 
+Reforce conocimientos y puse en practica otros que si tenia en cuenta
+
 ## Evidencia del control de versiones
 
 Todos los cambios fueron registrados mediante commits en este repositorio.
