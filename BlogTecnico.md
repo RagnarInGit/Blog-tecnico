@@ -6,7 +6,7 @@ Durante una actividad práctica desarrollé un dashboard en Excel para analizar 
 
 ## Descripción del desafío
 
-Uno de los principales problemas fue configurar correctamente las tablas dinámicas para que los segmentadores filtraran toda la información y lograr que los indicadores mostraran resultados correctos.
+El principal desafío técnico fue configurar correctamente las tablas dinámicas para que los segmentadores filtraran toda la información y lograr que los indicadores mostraran resultados correctos.
 
 Además, aparecieron errores al crear fórmulas, celdas con numerales (####) y dificultades para organizar el dashboard.
 
