@@ -43,3 +43,5 @@ Durante el desarrollo recibí observaciones sobre errores en la configuración d
 En lugar de continuar sobre una base incorrecta, acepté el feedback y reconstruí parte del trabajo desde cero.
 
 Esto permitió obtener un resultado mucho más claro y correcto.
+
+Hubo pruebas antes de publicar el resultado final.
